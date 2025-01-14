@@ -73,6 +73,6 @@ https://www.muji.com/jp/mujitogo/
 
 eg. フィルム石鹸
 
-### MUJI Lab
+### (Close ) MUJI Lab
 
 https://www.muji.net/lab/
