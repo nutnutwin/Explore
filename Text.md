@@ -3,7 +3,6 @@
 
 :toc:
 
-
 # Xiaomi_小米
 
 ### Inbox
@@ -14,34 +13,33 @@
 
 ### Archive
 
-https://www.mi.com/shop/buy/detail?product_id=1214200018
 
-❌显示器挂灯
 
+- ❌显示器挂灯
 
 https://www.mi.com/buy/detail?product_id=12212
+
+https://www.mi.com/shop/buy/detail?product_id=1214200018
 
 https://www.mi.com/shop/buy/detail?product_id=1214200018
 
 支持1〜32mm宽度
 
 
-⚠️耳机
-https://www.mi.com/huosai3?product_id=1165100001
-手环
+
+- 耳机
+  https://www.mi.com/huosai3?product_id=1165100001
+- 手环
 
 # Anker
 
-https://www.ankerjapan.com/
-https://www.anker.com.cn/
+- JP https://www.ankerjapan.com/
+- CN https://www.anker.com.cn/
 
 # UGREEN /绿联
 
-https://ugreenjapan.com/
-
-
-https://www.lulian.cn/
-
+- JP https://ugreenjapan.com/
+- Can https://www.lulian.cn/
 
 ★有鼠标
 
@@ -63,13 +61,10 @@ https://www.lulian.cn/
 
 - 新商品･一覧
   https://www.muji.com/jp/ja/store/cmdty/section/T00020
-
 - 新商品･食品
   https://www.muji.com/jp/ja/store/cmdty/section/S10905
-
 - MUJI GO
   https://www.muji.com/jp/mujitogo/
   フィルム石鹸
-
 - MUJI Lab
   https://www.muji.net/lab/
