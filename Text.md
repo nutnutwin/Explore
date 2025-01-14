@@ -47,10 +47,13 @@ https://ugreenjapan.com/news/1741/
 
 ❌iOS 配对时候耳机声音很大
 
-- CN
-  https://www.edifier.com/cn/
-- JP
-  https://edifier-online.com/jp/ja/
+### CN
+
+https://www.edifier.com/cn/
+
+### JP
+
+https://edifier-online.com/jp/ja/
 
 ---
 
