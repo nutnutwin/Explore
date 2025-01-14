@@ -70,7 +70,8 @@ https://www.muji.com/jp/ja/store/cmdty/section/S10905
 ### MUJI GO
 
 https://www.muji.com/jp/mujitogo/
-フィルム石鹸
+
+eg. フィルム石鹸
 
 ### MUJI Lab
 
