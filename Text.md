@@ -5,31 +5,17 @@
 
 # Xiaomi_小米
 
-### Inbox
+### 官网
 
-- 官网 https://www.mi.com/index.html
-- 商城 https://www.mi.com/shop
-- ★新品 https://www.mi.com/xinpinshoufa
+https://www.mi.com/index.html
 
-### Archive
+### 商城
 
+https://www.mi.com/shop
 
+### ★新品
 
-- ❌显示器挂灯
-
-https://www.mi.com/buy/detail?product_id=12212
-
-https://www.mi.com/shop/buy/detail?product_id=1214200018
-
-https://www.mi.com/shop/buy/detail?product_id=1214200018
-
-支持1〜32mm宽度
-
-
-
-- 耳机
-  https://www.mi.com/huosai3?product_id=1165100001
-- 手环
+https://www.mi.com/xinpinshoufa
 
 # Anker
 
