@@ -39,7 +39,8 @@ https://www.mi.com/shop/buy/detail?product_id=1214200018
 # UGREEN /绿联
 
 - JP https://ugreenjapan.com/
-- Can https://www.lulian.cn/
+
+https://www.lulian.cn/
 
 ★有鼠标
 
