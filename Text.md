@@ -59,12 +59,19 @@ https://edifier-online.com/jp/ja/
 
 # MUJI
 
-- 新商品･一覧
-  https://www.muji.com/jp/ja/store/cmdty/section/T00020
-- 新商品･食品
-  https://www.muji.com/jp/ja/store/cmdty/section/S10905
-- MUJI GO
-  https://www.muji.com/jp/mujitogo/
-  フィルム石鹸
-- MUJI Lab
-  https://www.muji.net/lab/
+### 新商品･一覧
+
+https://www.muji.com/jp/ja/store/cmdty/section/T00020
+
+### 新商品･食品
+
+https://www.muji.com/jp/ja/store/cmdty/section/S10905
+
+### MUJI GO
+
+https://www.muji.com/jp/mujitogo/
+フィルム石鹸
+
+### MUJI Lab
+
+https://www.muji.net/lab/
