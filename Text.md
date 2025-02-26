@@ -3,13 +3,11 @@
 
 :toc:
 
-
-# Rapoo_雷柏
+# Rapoo /雷柏
 
 https://www.rapoo.cn/
 
-
-# Xiaomi_小米
+# Xiaomi /小米
 
 ### 官网
 
@@ -23,7 +21,7 @@ https://www.mi.com/shop
 
 https://www.mi.com/xinpinshoufa
 
-# Anker
+# Anker /安克
 
 ### JP
 
@@ -63,7 +61,7 @@ https://edifier-online.com/jp/ja/
 
 ---
 
-# MUJI
+# MUJI /無印良品
 
 ### 新商品･一覧
 
