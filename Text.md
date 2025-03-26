@@ -3,11 +3,11 @@
 
 :toc:
 
-# Rapoo /雷柏
+# Rapoo (雷柏)
 
 https://www.rapoo.cn/
 
-# Xiaomi /小米
+# Xiaomi (小米)
 
 ### 官网
 
@@ -21,7 +21,7 @@ https://www.mi.com/shop
 
 https://www.mi.com/xinpinshoufa
 
-# Anker /安克
+# Anker (安克)
 
 ### JP
 
@@ -31,7 +31,7 @@ https://www.ankerjapan.com/
 
 https://www.anker.com.cn/
 
-# UGREEN /绿联
+# UGREEN (绿联)
 
 ### JP
 
@@ -47,7 +47,7 @@ https://www.lulian.cn/
 
 https://ugreenjapan.com/news/1741/
 
-# Edifier /漫步者
+# Edifier (漫步者)
 
 ❌iOS 配对时候耳机声音很大
 
@@ -61,7 +61,7 @@ https://edifier-online.com/jp/ja/
 
 ---
 
-# MUJI /無印良品
+# MUJI (無印良品)
 
 ### 新商品･一覧
 
