@@ -9,41 +9,41 @@ https://www.rapoo.cn/
 
 # Xiaomi (小米)
 
-### 官网
+- 官网
 
 https://www.mi.com/index.html
 
-### 商城
+- 商城
 
 https://www.mi.com/shop
 
-### ★新品
+- ★新品
 
 https://www.mi.com/xinpinshoufa
 
 # Anker (安克)
 
-### JP
+- JP
 
 https://www.ankerjapan.com/
 
-### CN
+- CN
 
 https://www.anker.com.cn/
 
 # UGREEN (绿联)
 
-### JP
+- JP
 
 https://ugreenjapan.com/
 
-### CN
+- CN
 
 https://www.lulian.cn/
 
 ★有鼠标
 
-### 回收电池
+- 回收电池
 
 https://ugreenjapan.com/news/1741/
 
@@ -51,42 +51,30 @@ https://ugreenjapan.com/news/1741/
 
 ❌iOS 配对时候耳机声音很大
 
-### CN
+- CN
 
 https://www.edifier.com/cn/
 
-### JP
-
----
-
----
-
----
-
----
-
-
-
+- JP
 https://edifier-online.com/jp/ja/
 
----
 
 # MUJI (無印良品)
 
-### 新商品･一覧
+- 新商品･一覧
 
 https://www.muji.com/jp/ja/store/cmdty/section/T00020
 
-### 新商品･食品
+- 新商品･食品
 
 https://www.muji.com/jp/ja/store/cmdty/section/S10905
 
-### MUJI GO
+- MUJI GO
 
 https://www.muji.com/jp/mujitogo/
 
 eg. フィルム石鹸
 
-### (Close ) MUJI Lab
+- (Close ) MUJI Lab
 
 https://www.muji.net/lab/
