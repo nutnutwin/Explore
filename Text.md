@@ -14,6 +14,8 @@ https://www.laifen.net/
 
 https://jp.laifentech.com/
 
+❗ヨドバシのほうが安い
+
 # Rapoo (雷柏)
 
 https://www.rapoo.cn/
